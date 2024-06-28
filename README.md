@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/k3yston3" target="blank"><img src="https://img.shields.io/twitter/follow/k3yston3?logo=twitter&style=for-the-badge" alt="k3yston3" /></a> </p>
 
-- 🔭 I’m currently working on [Venator](https://github.com/K3ySton3-ZA/Venator)
+- 🔭 I’m currently working on [Venator](https://github.com/venator-project/)
 
-- 👨‍💻 All of my projects are available at [https://mayanstegmann.com/projects](https://mayanstegmann.com/projects)
+- 👨‍💻 All of my projects are available [here](https://github.com/K3ySton3-ZA/)
 
-- 📝 I regularly write articles on [https://mayanstegmann.com/](https://mayanstegmann.com/)
+- 📝 I regularly write articles on [my website](https://mayanstegmann.com/)
 
-- 📫 How to reach me **connect@mayanstegmann.com**
+- 📫 You can reach me at **connect@mayanstegmann.com**
 
 - ⚡ Fun fact **I'm one of the only Mayans left...**
 
