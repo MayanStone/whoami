@@ -18,7 +18,7 @@
 
 - 📫 You can reach me at **connect@mayanstegmann.com**
 
-- ⚡ Fun fact **I'm one of the only Mayans left...**
+- ⚡ Fun fact **2012 was not my greatest year...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
