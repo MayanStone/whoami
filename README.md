@@ -1,4 +1,4 @@
-![MS Banner](https://github.com/K3ySton3-ZA/K3ySton3-ZA/assets/129148387/a0ea75ed-a4c6-4ad2-9ea4-a31e92e6bd3e)
+![MS Banner](https://github.com/MayanStone/whoami/blob/main/MS%20Banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mayan Stegmann</h1>
