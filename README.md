@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3yston3-za&label=Profile%20views&color=0e75b6&style=flat" alt="k3yston3-za" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3yston3-za" alt="k3yston3-za" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3yston3-za" alt="MayanStone" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/k3yston3" target="blank"><img src="https://img.shields.io/twitter/follow/k3yston3?logo=twitter&style=for-the-badge" alt="k3yston3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MayanStegmann" target="blank"><img src="https://img.shields.io/twitter/follow/k3yston3?logo=twitter&style=for-the-badge" alt="MayanStegmann" /></a> </p>
 
 - 🔭 I’m currently working on [Venator](https://github.com/venator-project/)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/K3ySton3-ZA/)
+- 👨‍💻 All of my projects are available [here](https://github.com/MayanStone/)
 
 - 📝 I regularly write articles on [my website](https://mayanstegmann.com/)
 
