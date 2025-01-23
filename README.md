@@ -1,7 +1,7 @@
 ![MS Banner](https://github.com/MayanStone/whoami/blob/main/MS%20Banner.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mayan Stegmann</h1>
+<h1 align="center">Hi 👋, I'm Mayan</h1>
 <h3 align="center">An intelligence and security professional with a passion for knowledge and a fiery curiosity for how the world works - both in the physical and digital realms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3yston3-za&label=Profile%20views&color=0e75b6&style=flat" alt="k3yston3-za" /> </p>
